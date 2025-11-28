@@ -1,5 +1,7 @@
 # Sistema de Controle de Acesso com ESP32
 
+Desenvolvido durante o 2º período da graduação em Sistemas de Informação. 
+
 ## Descrição
 
 Este projeto implementa um sistema de controle de acesso a sala utilizando o microcontrolador ESP32. O dispositivo funciona como um servidor web que hospeda uma página de login em HTML. Com base nas credenciais fornecidas pelo usuário, o sistema executa ações específicas em componentes físicos:
