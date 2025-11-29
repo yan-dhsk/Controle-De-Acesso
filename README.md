@@ -51,4 +51,4 @@ Este projeto implementa um sistema de controle de acesso a sala utilizando o mic
 - [Yan Neves](https://github.com/yan-dhsk)
 - [Vinicius Meneses](https://github.com/viniciusmeneses-tech)
 - José Ronaldo
-- Eduardo Silva
+- [Eduardo Silva](https://github.com/Educraft1)
